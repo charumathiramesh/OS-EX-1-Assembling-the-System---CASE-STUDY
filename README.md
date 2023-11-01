@@ -1,8 +1,8 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:
+## AIM:
 To build the complete assembly of the Computer System
-STEPS:
+## STEPS:
 ## STEP 1: Open the case
 The First Step In Assembling A Computer Is To Open The Computer Case. To Open The Case, First Remove The Screws Of The Left Side Cover And Slide The Side Cover
 ![268424990-a9e7bf74-d8c1-4cfa-b845-9d737698c079](https://github.com/charumathiramesh/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/120204455/08281fd0-3c42-463d-8967-b2c801bbff47)
@@ -76,7 +76,7 @@ Always Remember That The First Step Is To Push Power Button Of The CPU Than The 
 
 ![268425318-7fbbc8a3-dae6-4f8b-add3-e3893ba7e210](https://github.com/charumathiramesh/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/120204455/3b2781e5-fb27-4ab4-89e4-76bedc713e6f)
 
-PROCEDURE:
+## PROCEDURE:
 1. Open The Case
 2. Install The Power Supply
 3. Attach The Components To The Motherboard
@@ -88,7 +88,7 @@ PROCEDURE:
 9. Boot The Computer For The First Time.
 
 
-RESULT:
+## RESULT:
 Congratulations! You've successfully assembled a computer system. Remember to keep your workspace tidy, and take your time during each step to ensure everything is done correctly
 
 
